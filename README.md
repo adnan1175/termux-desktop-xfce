@@ -57,7 +57,7 @@ firefox
 > NOTE: This only works on Termux. Do not try it on other linux terminal emulators.
 
 ```bash
-curl -sLf https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/boostrap.sh | bash
+curl -sLf https://raw.githubusercontent.com/adnan1175/termux-desktop-xfce/main/boostrap.sh | bash
 ```
 
 After that just have a cup of coffee... the script will do its job 
