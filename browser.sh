@@ -1,7 +1,7 @@
 r="\033[1;31m"
  w="\033[0m"
 clear
-echo "${r}which browse do you want${w}"
+echo -e "${r}which browse do you want${w}"
 echo "1 -  firefox"
 echo "2 -  chromium"
 echo "3 - install both"
