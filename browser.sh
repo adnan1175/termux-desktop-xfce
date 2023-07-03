@@ -6,7 +6,7 @@ echo "1 -  firefox"
 echo "2 -  chromium"
 echo "3 - install both"
 echo "4 - Exit"
-echo "Please choose one of the following options:" &&read choice
+echo "Please choose one of the options:" &&read choice
 
 case $choice in
     1) apt install firefox -y;;
